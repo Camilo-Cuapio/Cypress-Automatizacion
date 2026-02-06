@@ -1,0 +1,10 @@
+# Ignorar carpeta completa de ejemplos avanzados
+cypress/e2e/2-advanced-examples/
+
+# Ignorar archivo todo.cy.js (ejemplo que no quieres subir)
+cypress/e2e/1-getting-started/todo.cy.js
+
+# Ignorar node_modules y archivos generados típicos
+node_modules/
+cypress/videos/
+cypress/screenshots/
